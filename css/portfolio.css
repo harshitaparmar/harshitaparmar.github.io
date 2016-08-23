@@ -107,8 +107,8 @@ h6 {
 
 .btn-xl {
   color: white;
-  background-color:#e84a5f;
-  border-color:#e84a5f;
+  background-color:#3f4a4e;
+  border-color:#3f4a4e;
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-weight: 700;
@@ -122,8 +122,8 @@ h6 {
 .btn-xl.active,
 .open .dropdown-toggle.btn-xl {
   color: white;
-  background-color: #d04255;
-  border-color:#d04255;
+  background-color: #525c5f;
+  border-color:#525c5f;
 }
 .btn-xl:active,
 .btn-xl.active,
@@ -142,14 +142,14 @@ h6 {
   width:100%;
 }
 .navbar-custom .navbar-brand {
-  color: #e84a5f;
+  color: white;
   font-family: "Kaushan Script", "Helvetica Neue", Helvetica, Arial, cursive;
 }
 .navbar-custom .navbar-brand:hover,
 .navbar-custom .navbar-brand:focus,
 .navbar-custom .navbar-brand:active,
 .navbar-custom .navbar-brand.active {
-  color:  #E84A5F;
+  color:  #e5e5e5;
 }
 .navbar-custom .navbar-collapse {
   border-color: rgba(255, 255, 255, 0.02);
@@ -171,11 +171,11 @@ h6 {
   text-transform: uppercase;
   font-weight: 300;
   letter-spacing: 1px;
-  color:#e84a5f;
+  color:white;
 }
 .navbar-custom .nav li a:hover,
 .navbar-custom .nav li a:focus {
-  color: #E84A5F;
+  color: #e5e5e5;
   outline: none;
 }
 .navbar-custom .navbar-nav > .active > a {
@@ -374,7 +374,7 @@ h6 {
   padding-top:1%;
 }
 header {
-   background-color:#feceab;
+   background-color:#e84a5f;
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: scroll;
@@ -384,7 +384,7 @@ header {
   background-size: cover;
   -o-background-size: cover;
   text-align: center;
-  color: #e84a5f;
+  color: white;
 }
 header .intro-text {
   padding-top: 100px;
